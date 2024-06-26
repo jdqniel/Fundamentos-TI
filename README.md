@@ -3,7 +3,8 @@
 ## Notas de Clase
 
 [1. Algoritmos y Diagramas de flujo] (1_Algoritmos_y_Diagramas_de_Flujo.md)
-[[2. Pseudocodigo]]
+
+[2. Pseudocodigo]
 
 
 ## Recursos
