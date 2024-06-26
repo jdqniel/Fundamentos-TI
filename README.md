@@ -2,7 +2,7 @@
 
 ## Notas de Clase
 
-[[1. Algoritmos y Diagramas de flujo] (Portafolio/"1. Algoritmos y Diagramas de Flujo")]
+[[1. Algoritmos y Diagramas de flujo] (Portafolio/1_Algoritmos_y_Diagramas_de_Flujo.md)]
 [[2. Pseudocodigo]]
 
 
